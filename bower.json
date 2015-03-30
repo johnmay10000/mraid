@@ -1,0 +1,22 @@
+{
+  "name": "mraid",
+  "version": "0.0.0",
+  "authors": [
+    "John May <johnmay10000@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "purescript-math": "~0.1.0",
+    "purescript-refs" : "*",
+    "purescript-lists" : "*",
+    "purescript-transformers": "*"
+  }
+}
